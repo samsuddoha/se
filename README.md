@@ -37,7 +37,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - **Trello**
 - **Kanban**
 - **Selenium IDE**
--
+- **Programming Languages: C#, Java, Python**
 ## 📅 Class Routine
 | Course   | Day        | Time             | Room |
 |----------|-----------|------------------|------|
