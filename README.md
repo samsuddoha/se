@@ -28,8 +28,8 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 ## 📚 Recommended Books
 - 1. *Software Engineering: A Practitioner's Approach* (Roger S. Pressman & Bruce R. Maxim) [pdf](https://github.com/samsuddoha/se/blob/main/Books/Pressman-Software%20Engineering%20Practitioner%E2%80%99s%20Approach%20-%207E.pdf)
 - 2. *Software Engineering* (Ian Sommerville) [pdf](https://github.com/samsuddoha/se/blob/main/Books/Sommerville%20-%20Software%20Engineering%209ed.pdf)
-- 3. *Clean Code: A Handbook of Agile Software Craftsmanship* (Robert C. Martin (Uncle Bob)) [pdf](https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf)
-- 4. *Design Patterns: Elements of Reusable Object-Oriented Software* (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (The "Gang of Four"))  [PDF](https://github.com/samsuddoha/ds/blob/main/Books/Balagurusamy_Data%20Structures%20using%20C.pdf)
+- 3. *Clean Code: A Handbook of Agile Software Craftsmanship* (Robert C. Martin (Uncle Bob)) [pdf](https://github.com/samsuddoha/se/tree/main/Books)
+- 4. *Design Patterns: Elements of Reusable Object-Oriented Software* (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (The "Gang of Four"))  [PDF]()
 
 ## 💻 Tools 
 ### Explore the following tools:
