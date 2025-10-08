@@ -30,7 +30,7 @@
 |Tasks| Marks| deadline | Instructions | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Project Idea| - | 11 Oct | NA | [Idea Submission](https://docs.google.com/spreadsheets/d/1R2UlnIj_dkN80WTWY4jIM3v1VgUkc32MiBoZt1Y2Qfc/edit?usp=sharing)|
-|Project Proposal| - |  15 Oct | [Slide]() | N/A|
+|Project Proposal| - |  15 Oct | [Slide](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
 |Proposal Presentation| - |  21 Oct | NA | N/A|
 |SRS| - | TBA | TBA | TBA|
 |Final Presentation| - | TBA | TBA | TBA|
