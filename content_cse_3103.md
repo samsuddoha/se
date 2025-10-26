@@ -9,6 +9,7 @@
 | <b>Lecture 1 </b><br> (Software and SE)  | - | Pressman- Chapter 1 | -|
 | <b>Lecture 2 </b><br> (Process Models)  | - | Pressman- Chapter 2| -|
 | <b>Lecture 3 </b><br> (Agile Development)  | - | Pressman - Chapter 3 | -|
+| <b>Lecture 4 </b><br> (Understanding Requirements)  | - | Pressman - Chapter 5 | -|
 
 
 ### Exams
