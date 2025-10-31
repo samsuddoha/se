@@ -17,7 +17,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Assignment (SRS)| 10%| 9 Nov | - | -|
+|<mark>Assignment (SRS)</mark>| 10%| 9 Nov | - | -|
 |Proposal Presentation| 10% |  26 & 27 Oct | - | - |
 |Lab Test| 15%|  TBA | NA | N/A|
 |Final Exam| 30% | TBA | TBA | TBA|
@@ -25,18 +25,7 @@
 
 ### Project
 ---
-Idea Submission --> Project Proposal --> SRS report --> Project Progress --> Testing Report --> Project Deployment --> Final Report & Code Submission --> Final Presentation
-
-## 🧩 Project Workflow
-
-
-    A[💡 Idea Submission] --> B[📝 Project Proposal]
-    B --> C[📄 SRS Report]
-    C --> D[⚙️ Project Progress]
-    D --> E[🧪 Testing Report]
-    E --> F[🚀 Project Deployment]
-    F --> G[📚 Final Report & Code Submission]
-    G --> H[🎤 Final Presentation]
+**Project Flowchart:** Idea Submission --> Project Proposal --> SRS report --> Project Progress --> Testing Report --> Project Deployment --> Final Report & Code Submission --> Final Presentation
 
 
 |Tasks| Marks| deadline | Instructions | Resources|
