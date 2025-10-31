@@ -29,8 +29,7 @@ Idea Submission --> Project Proposal --> SRS report --> Project Progress --> Tes
 
 ## 🧩 Project Workflow
 
-```mermaid
-flowchart LR
+
     A[💡 Idea Submission] --> B[📝 Project Proposal]
     B --> C[📄 SRS Report]
     C --> D[⚙️ Project Progress]
