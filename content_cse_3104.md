@@ -17,7 +17,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|<mark>Assignment (SRS)</mark>| 10%| 9 Nov | - | -|
+|Assignment| 10%| - | - | -|
 |Proposal Presentation| 10% |  26 & 27 Oct | - | - |
 |Lab Test| 15%|  TBA | NA | N/A|
 |Final Exam| 30% | TBA | TBA | TBA|
