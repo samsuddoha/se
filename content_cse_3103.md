@@ -11,8 +11,8 @@
 | <b>Lecture 3 </b><br> (Agile Development)  | - | <ul><li>Concept of Agility: Agile with Cost of Change</li><li>Agile Process</li><li>Principles of Agile</li><li>XP Process</li><li>Scrum</li><li>Feature Driven Development (FDD)</li></ul>  | Pressman - Chapter 3|
 | <b>Lecture 4 </b><br> (Understanding Requirements)  | 2 | <ul><li>Concepts of Requirements</li><li>Requirements Engineering Process</li><li>Steps of RE</li> <li>Details of Inception & Elicitation(QFD)</li></ul>| Pressman - Chapter 5 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%204)|
 | <b>Lecture 5 </b><br> ( Requirements Modeling)  | 2 | <ul><li>Scenario based Modeling</li><li>Data Modeling</li><li>Class Oriented Modeling</li><li>Flow Oriented Modeling</li><li>Behavioral Modeling</li></ul> | Pressman - Chapter 6, 7 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%205)|
-| <b>Lecture 6 </b><br> ( SQA & Testing)  | 2 | Software Quality Assurance & Testing | Pressman - Chapter 17, 18 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%206)|
-| <b>Lecture 7 </b><br> ( Project Management)  | 2 | Software Project Management | Pressman - Chapter 24, 28 & [Slide]()|
+| <b>Lecture 6 </b><br> ( SQA & Testing)  | 2 | Software Quality Assurance & Testing (Follow content from slide) | Pressman - Chapter 17, 18 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%206)|
+| <b>Lecture 7 </b><br> ( Project Management)  | - | <ul><li>Ch 24: 24.1-24.5</li><li>Ch 28: 28.2, 28.3, 28.6, 28.7</li></ul>| Pressman - Chapter 24, 28 & [Slide]()|
 
 
 ### Exams
