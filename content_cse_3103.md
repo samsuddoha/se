@@ -9,8 +9,8 @@
 | <b>Lecture 1 </b><br> (Software and SE)  | - | Pressman- Chapter 1 | -|
 | <b>Lecture 2 </b><br> (Process Models)  | - | Pressman- Chapter 2| -|
 | <b>Lecture 3 </b><br> (Agile Development)  | - | Pressman - Chapter 3 | -|
-| <b>Lecture 4 </b><br> (Understanding Requirements)  | 2 | Requirements Engineering (RE) | Pressman - Chapter 5 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%204)|
-| <b>Lecture 5 </b><br> ( Requirements Modeling)  | 2 | Requirements Engineering (RE) | Pressman - Chapter 6, 7 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%205)|
+| <b>Lecture 4 </b><br> (Understanding Requirements)  | 2 | <ul><li>Concepts of Requirements</li><li>Requirements Engineering Process</li><li>Steps of RE</li> <li>Details of Inception & Elicitation(QFD)</li></ul>| Pressman - Chapter 5 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%204)|
+| <b>Lecture 5 </b><br> ( Requirements Modeling)  | 2 | <ul><li>Scenario based Modeling</li><li>Data Modeling</li><li>Class Oriented Modeling</li><li>Flow Oriented Modeling</li><li>Behavioral Modeling</li></ul> | Pressman - Chapter 6, 7 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%205)|
 | <b>Lecture 6 </b><br> ( SQA & Testing)  | 2 | Software Quality Assurance & Testing | Pressman - Chapter 17, 18 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%206)|
 | <b>Lecture 7 </b><br> ( Project Management)  | 2 | Software Project Management | Pressman - Chapter 24, 28 & [Slide]()|
 
