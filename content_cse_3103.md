@@ -11,6 +11,8 @@
 | <b>Lecture 3 </b><br> (Agile Development)  | - | Pressman - Chapter 3 | -|
 | <b>Lecture 4 </b><br> (Understanding Requirements)  | 2 | Requirements Engineering (RE) | Pressman - Chapter 5 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%204)|
 | <b>Lecture 5 </b><br> ( Requirements Modeling)  | 2 | Requirements Engineering (RE) | Pressman - Chapter 6, 7 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%205)|
+| <b>Lecture 6 </b><br> ( SQA & Testing)  | 2 | Software Quality Assurance & Testing | Pressman - Chapter 17, 18 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%206)|
+| <b>Lecture 7 </b><br> ( Project Management)  | 2 | Software Project Management | Pressman - Chapter 24, 28 & [Slide]()|
 
 
 ### Exams
