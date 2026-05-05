@@ -21,9 +21,9 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Mid Term 1| 20%| - | - | N/A|
-|<mark>Mid Term 2 and <br> Class Test</mark>| - | - | - | N/A|
-|<mark> Assignment </mark>| 5% |   |SRS on University Management System  | [Instructions](https://github.com/samsuddoha/se/blob/main/Assignment/Assignment_SRS_CSE-3103.pdf)|
+|Mid Term 1| 20%| 18 Sept (2.45pm-4.45pm) | Chapter (1, 2, 3) - Pressman | N/A|
+|<mark>Mid Term 2 and <br> Class Test</mark>| 20% + 10% | 12 Nov (8.30am-9.30am), Room: 6506 | Chapter (5, 6, 7) - Pressman | N/A|
+|<mark> Assignment </mark>| 5% |  12 Nov (Before Mid Exam) |SRS on University Management System  | [Instructions](https://github.com/samsuddoha/se/blob/main/Assignment/Assignment_SRS_CSE-3103.pdf)|
 |Presentation| 5% |  TBA | TBA | N/A|
-|**Final Exam**| 60% | - | - | [SampleQ](https://github.com/samsuddoha/se/blob/main/Q/SE_SampleQ_PrevYear.pdf)|
+|**Final Exam**| 60% |  24 Nov 25 | - | [SampleQ](https://github.com/samsuddoha/se/blob/main/Q/SE_SampleQ_PrevYear.pdf)|
 

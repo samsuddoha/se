@@ -18,7 +18,7 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Assignment| 10%| - | - | -|
-|Proposal Presentation| 10% |  - | - | - |
+|Proposal Presentation| 10% |  26 & 27 Oct | - | - |
 |Lab Test| 15%|  TBA | NA | N/A|
 |Final Exam| 30% | TBA | TBA | TBA|
 |Project| 40% | TBA | TBA | TBA|
@@ -30,8 +30,9 @@
 
 |Tasks| Marks| deadline | Instructions | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Project Idea| - | 10 May 26 | Form a team with 5/6 members </br> & submit your idea | [Idea Submission](https://docs.google.com/spreadsheets/d/1FVkpgEN-jj6d85bPwFejINtQ2s2pJEMq5wjB2gjjS4Q/edit?usp=sharing)|
-|Project Proposal & Presentation| 10% |  15 May 26 | [Slide](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
+|Project Idea| - | 11 Oct | NA | [Idea Submission](https://docs.google.com/spreadsheets/d/1R2UlnIj_dkN80WTWY4jIM3v1VgUkc32MiBoZt1Y2Qfc/edit?usp=sharing)|
+|Project Proposal| - |  26 Oct | [Slide](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
+|Proposal Presentation| - |  26 & 27 Oct | NA | N/A|
 |SRS Report| - | TBA | TBA | TBA|
 |Final Presentation| - | TBA | TBA | TBA|
 
