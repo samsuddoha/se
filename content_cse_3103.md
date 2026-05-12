@@ -21,9 +21,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Mid Term 1| 20%| - | - | N/A|
-|<mark>Mid Term 2 and <br> Class Test</mark>| - | - | - | N/A|
-|<mark> Assignment </mark>| 5% |   |SRS on University Management System  | [Instructions](https://github.com/samsuddoha/se/blob/main/Assignment/Assignment_SRS_CSE-3103.pdf)|
-|Presentation| 5% |  TBA | TBA | N/A|
+|Mid Term + CT| 30%| 10th June 26 | Lecture 1 to 4 | N/A|
+|Assignment | 10% |   |SRS on University Management System  | [Instructions](https://github.com/samsuddoha/se/blob/main/Assignment/Assignment_SRS_CSE-3103.pdf)|
 |**Final Exam**| 60% | - | - | [SampleQ](https://github.com/samsuddoha/se/blob/main/Q/SE_SampleQ_PrevYear.pdf)|
 
