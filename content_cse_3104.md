@@ -17,11 +17,10 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Assignment| 10%| - | - | -|
-|Proposal Presentation| 10% |  - | - | - |
-|Lab Test| 15%|  TBA | NA | N/A|
-|Final Exam| 30% | TBA | TBA | TBA|
-|Project| 40% | TBA | TBA | TBA|
+|Assignment/ Presentation| 10%| - | - | -|
+|Lab Test/Midterm (SRS)| 20%|  TBA | NA | N/A|
+|Final Exam (Design Pattern) | 20% | TBA | TBA | TBA|
+|Project| 50% | TBA | TBA | TBA|
 
 ### Project
 ---
@@ -31,9 +30,9 @@
 |Tasks| Marks| deadline | Instructions | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Project Idea| - | 10 May 26 | Form a team with 5/6 members </br> & submit your idea | [Idea Submission](https://docs.google.com/spreadsheets/d/1FVkpgEN-jj6d85bPwFejINtQ2s2pJEMq5wjB2gjjS4Q/edit?usp=sharing)|
-|Project Proposal & Presentation| 10% |  15 May 26 | [Slide](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
-|SRS Report| - | TBA | TBA | TBA|
-|Final Presentation| - | TBA | TBA | TBA|
+|Project Proposal & Presentation| 10% |  17 May 26 (10.00am-1.00pm) | [Instructions](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
+|SRS Report| 10% | TBA | TBA | TBA|
+|Final Work & Presentation| 30% | TBA | TBA | TBA|
 
 
 
