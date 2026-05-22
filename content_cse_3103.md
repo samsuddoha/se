@@ -12,7 +12,7 @@
 | <b>Lecture 4 </b><br> (Understanding Requirements)  | - | <ul><li>Concepts of Requirements</li><li>Requirements Engineering Process</li><li>Steps of RE</li> <li>Details of Inception & Elicitation(QFD)</li></ul>| Pressman - Chapter 5 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%204)|
 | <b>Lecture 5 </b><br> ( Requirements Modeling)  | - | <ul><li>Scenario based Modeling</li><li>Data Modeling</li><li>Class Oriented Modeling</li><li>Flow Oriented Modeling</li><li>Behavioral Modeling</li></ul> | Pressman - Chapter 6, 7 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%205)|
 | <b>Lecture 6 </b><br> ( SQA & Testing)  | - | <ul><li>Follow content from slide</li><li>Cyclomatic Complexity Analysis</li><li> Test Case: Conpcet, generate test cases from requirements</li></ul> | Pressman - Chapter 17, 18 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%206)|
-| <b>Lecture 7 </b><br> ( Project Management)  | - | <ul><li>Ch 24: 24.1-24.5</li><li>Ch 28: 28.2, 28.3, 28.6, 28.7</li></ul>| Pressman - Chapter 24, 28 & [Slide]()|
+| <b>Lecture 7 </b><br> ( Project Management)  | - | <ul><li>Ch 24: 24.1-24.5</li><li>Ch 28: 28.2, 28.3, 28.6, 28.7</li></ul>| Pressman - Chapter 24, 28 & [Slide](https://github.com/samsuddoha/se/tree/main/Lecture/Lecture%207)|
 
 
 ### Exams

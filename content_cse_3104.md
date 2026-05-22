@@ -8,11 +8,11 @@
 
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
-| Lecture 1 | 1 |Planning Project Development (Proposal Report & Presenation)|  [Slide]() |
-| Lecture 2 | 4 |SRS|  - |
-| Lecture 3 | 2 |Project Management (Managemnt tools- Trello), Version Control System(Git & Github)|  [Slide]() |
-| Lecture 4 | - |Design Pattern|  [Refactoring Guru](https://refactoring.guru/design-patterns) <br> [SourceMaking](https://sourcemaking.com/design_patterns) |
-| Lecture 5 | - |SQA|  - |
+| Lecture 1 | 1 |Planning Project Development (Proposal Report & Presenation)|  [Slide](https://github.com/samsuddoha/se/tree/main/Lab%20Lecture) |
+| Lecture 2 | 4 |SRS|  Follow Theory Lecture |
+| Lecture 3 | 2 |Project Management (Managemnt tools- Trello), Version Control System(Git & Github)|  [Slide](https://github.com/samsuddoha/se/tree/main/Lab%20Lecture) |
+| Lecture 4 | 8 |Design Pattern|  [Refactoring Guru](https://refactoring.guru/design-patterns) <br> [SourceMaking](https://sourcemaking.com/design_patterns) |
+| Lecture 5 | 2 |SQA|  - |
 
 
 
