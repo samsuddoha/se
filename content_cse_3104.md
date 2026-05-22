@@ -23,10 +23,10 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Assignment/ Presentation| 10%| - | - | -|
+|Presentation| 10%| Online (12, 13, 14, 15 June) | [Presentation Topic]() | -|
 |Lab Test/Midterm (SRS)| 20%|  10th June | NA | N/A|
-|Final Exam (Design Pattern) | 20% | TBA | TBA | TBA|
-|Project| 50% | TBA | TBA | TBA|
+|Final Exam (Design Pattern) | 20% | 18th June | Design Pattern | TBA|
+|Project| 50% | - | Look Below | -|
 
 ### Project
 ---
