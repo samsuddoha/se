@@ -24,7 +24,7 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Presentation| 10%| Online (12, 13, 14, 15 June) | [Presentation Topic]() | -|
-|Lab Test/Midterm (SRS)| 20%|  10th June | NA | N/A|
+|Lab Test/Midterm (SRS)| 20%|  10th June | SRS (Req. Modeling) | -|
 |Final Exam (Design Pattern) | 20% | 18th June | Design Pattern | TBA|
 |Project| 50% | - | Look Below | -|
 
@@ -37,7 +37,7 @@
 |-----------|-------|-----------------|------------|---------|
 |Project Idea| - | 10 May 26 | Form a team with 5/6 members </br> & submit your idea | [Idea Submission](https://docs.google.com/spreadsheets/d/1FVkpgEN-jj6d85bPwFejINtQ2s2pJEMq5wjB2gjjS4Q/edit?usp=sharing)|
 |Project Proposal & Presentation| 10% |  17 May 26 (10.00am-1.00pm) | [Instructions](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
-|SRS Report of Project| 10% | TBA | TBA | TBA|
+|SRS Report of Project| 10% | 14th June | - | - |
 |Final Work & Presentation| 30% | 22 June 26 | TBA | TBA|
 
 
