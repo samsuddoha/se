@@ -24,7 +24,7 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Presentation| 10%| Online (12, 13, 14, 15 June) <br> Check Date in Google Sheet  | [Presentation Topic](https://docs.google.com/spreadsheets/d/1WKT9o1UbYKBhvmikYl9wPWZ7VARtaqaVNDLt0PsPm8c/edit?usp=sharing) | - |
-|Lab Test/Midterm (SRS)| 20%|  10th June | SRS (Req. Modeling) | [SampleQ](https://github.com/samsuddoha/se/tree/main/Lab/LabQ)|
+|Lab Test/Midterm (SRS)| 20%|  10th June (10.00am-11.30am) <br> Room: 6506 | SRS (Req. Modeling) | [SampleQ](https://github.com/samsuddoha/se/tree/main/Lab/LabQ)|
 |Final Exam (Design Pattern) | 20% | 18th June (10.00am-1.00pm) <br> Room: 1504 | Design Pattern | TBA|
 |Project| 50% | - | Look Below | -|
 
