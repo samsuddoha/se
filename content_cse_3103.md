@@ -21,7 +21,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Mid Term + CT| 30%| 10th June 26 (8.30am-10.00am) <br> Room: 6506 | Lecture 1 to 4 | N/A|
+|Mid Term + CT| 30%| 10th June 26 (8.30am-10.00am) <br> Room: 6506 | Lecture 1 to 4 | [SampleQ](https://github.com/samsuddoha/se/tree/main/Q)|
 |Assignment | 10% | 10the June 26  |SRS on University Management System  | [Instructions](https://github.com/samsuddoha/se/blob/main/Assignment/Assignment_SRS_CSE-3103.pdf)|
 |**Final Exam**| 60% | 1st Week of July | All Lectures | [SampleQ](https://github.com/samsuddoha/se/blob/main/Q/SE_SampleQ_PrevYear.pdf)|
 
