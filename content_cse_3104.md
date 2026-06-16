@@ -11,7 +11,7 @@
 | Lecture 1 | 1 |Planning Project Development (Proposal Report & Presenation)|  [Slide](https://github.com/samsuddoha/se/tree/main/Lab%20Lecture) |
 | Lecture 2 | 4 |SRS|  Follow Theory Lecture |
 | Lecture 3 | 2 |Project Management (Managemnt tools- Trello), Version Control System(Git & Github)|  [Slide](https://github.com/samsuddoha/se/tree/main/Lab%20Lecture) |
-| Lecture 4 | 8 |Design Pattern|  [Refactoring Guru](https://refactoring.guru/design-patterns) <br> [SourceMaking](https://sourcemaking.com/design_patterns) |
+| Lecture 4 | 8 |Design Pattern|  [Refactoring Guru](https://refactoring.guru/design-patterns) <br> [SourceMaking](https://sourcemaking.com/design_patterns) <br> [Resources](https://github.com/samsuddoha/se/tree/main/Design%20Pattern) |
 | Lecture 5 | 2 |SQA|  - |
 
 
@@ -25,7 +25,7 @@
 |-----------|-------|-----------------|------------|---------|
 |Presentation| 10%| Online (12, 13, 14, 15 June) <br> Check Date in Google Sheet  | [Presentation Topic](https://docs.google.com/spreadsheets/d/1WKT9o1UbYKBhvmikYl9wPWZ7VARtaqaVNDLt0PsPm8c/edit?usp=sharing) | - |
 |Lab Test/Midterm (SRS)| 20%|  10th June (10.00am-11.30am) <br> Room: 6506 | SRS (Req. Modeling) | [SampleQ](https://github.com/samsuddoha/se/tree/main/Lab/LabQ)|
-|Final Exam (Design Pattern) | 20% | 18th June (10.00am-1.00pm) <br> Room: 1504 | Design Pattern | TBA|
+|Final Exam (Design Pattern) | 20% | 18th June (10.00am-1.00pm) <br> Room: 1504 | Design Pattern | [SampleQ](https://github.com/samsuddoha/se/blob/main/Q/Syllabu%20FInal%20Exam%20Design%20Patterns.pdf)|
 |Project| 50% | - | Look Below | -|
 
 ### Project
