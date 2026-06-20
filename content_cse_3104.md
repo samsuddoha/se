@@ -38,7 +38,7 @@
 |Project Idea| - | 10 May 26 | Form a team with 5/6 members </br> & submit your idea | [Idea Submission](https://docs.google.com/spreadsheets/d/1FVkpgEN-jj6d85bPwFejINtQ2s2pJEMq5wjB2gjjS4Q/edit?usp=sharing)|
 |Project Proposal & Presentation| 10% |  17 May 26 (10.00am-1.00pm) | [Instructions](https://github.com/samsuddoha/se/blob/main/Lab/Project%20Proposal.pdf) | N/A|
 |SRS Report of Project| 10% | 14th June (11.59pm) | Submit on Github Project Repo on SRS folder| - |
-|Final Work & Presentation| 30% | 24 June 26 (9.00am-4.00pm). MC Lab | TBA | TBA|
+|Final Work & Presentation| 30% | 24 June 26 (9.00am-4.00pm). MC Lab | - | [Presentation Instructions](https://github.com/samsuddoha/se/blob/main/Project/Project%20Presentation%20Guidelines.pdf)|
 
 
 
